@@ -18,7 +18,7 @@ This work is licensed under a
 
 Cite as:
 
-@Misc{Satme2026PaperResourceAware,   
+@Misc{ARTSLab2026PaperTimeConstant,   
   author = {{ARTS-Lab}},   
   howpublished = {GitHub},  
   title  = {Paper Time-Constant Synchronization of a Cyber-Physical {SMR} Emulator},   
