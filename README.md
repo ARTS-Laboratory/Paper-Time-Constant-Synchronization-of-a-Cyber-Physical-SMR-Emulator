@@ -2,7 +2,7 @@
 
 This is the companion repository for the journal paper, *Time-Constant Synchronization of a Cyber-Physical SMR Emulator for Load-Following and Grid-Integration Control*.
 
-This repository contains the models, code, and paper-specific artifacts associated with the manuscript. For the physical thermal-loop testbed and related hardware resources, see the companion repository: [CORE²S](https://github.com/ARTS-Laboratory/core2s). Testing for this current paper was done on the test loop in the summer/fall of 2025. Subsequent updates have been made to the test loop.
+This repository contains the models, code, and paper-specific artifacts associated with the manuscript. For the physical thermal-loop testbed and related hardware resources, see the companion repository: [CORE²S](https://github.com/ARTS-Laboratory/core2s), specifically folder v0.1.0. Testing for this current paper was done on the test loop in the summer/fall of 2025. Subsequent updates have been made to the test loop.
 
 ## Licensing and Citation
 
